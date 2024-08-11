@@ -1,6 +1,6 @@
-# Discrete-covariates
+# Discrete covariates
 
-The objective of this report is to use data obtained in 1999 to compare the quality of
+The objective of this project is to use data obtained in 1999 to compare the quality of
 locations in Munich. First, the data is statistically analyzed using statistical metrics
 such as mean, variance, and standard deviation. Testing assumptions are checked to
 decide between the parametric and nonparametric methods of testing. The Kruskal test
